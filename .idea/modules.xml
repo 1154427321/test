@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designPattern/designPattern.iml" filepath="$PROJECT_DIR$/designPattern/designPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-observer/springboot-observer.iml" filepath="$PROJECT_DIR$/springboot-observer/springboot-observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/小工具/tools.iml" filepath="$PROJECT_DIR$/小工具/tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/练习项目.iml" filepath="$PROJECT_DIR$/.idea/练习项目.iml" />
+    </modules>
+  </component>
+</project>
