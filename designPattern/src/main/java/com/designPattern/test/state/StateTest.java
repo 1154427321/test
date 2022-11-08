@@ -9,6 +9,7 @@ public class StateTest {
         Order order = new Order();
         System.out.println(order);
 
+
         //修改状态并执行
         order.setState(new PayState());
         order.doActive();
