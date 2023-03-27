@@ -11,7 +11,9 @@ public class 反转链表 {
         ListNode three = new ListNode(3);
         one.next=two;two.next = three;
         ListNode listNode = reverseList(one);
+        System.out.println(listNode);
         aaa(listNode);
+        System.out.println(listNode);
     }
     //栈实现
 //    public static ListNode byStack(ListNode head) {
@@ -53,4 +55,5 @@ class ListNode {
     ListNode(int val) {
         this.val = val;
     }
+
 }
